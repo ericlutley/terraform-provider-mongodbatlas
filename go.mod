@@ -1,4 +1,4 @@
-module github.com/mongodb/terraform-provider-mongodbatlas
+module github.com/ericlutley/terraform-provider-mongodbatlas
 
 go 1.16
 

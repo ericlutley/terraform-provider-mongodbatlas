@@ -7,7 +7,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/logging"
 	"github.com/mongodb-forks/digest"
-	"github.com/mongodb/terraform-provider-mongodbatlas/version"
+	"github.com/ericlutley/terraform-provider-mongodbatlas/version"
 	"github.com/spf13/cast"
 	matlasClient "go.mongodb.org/atlas/mongodbatlas"
 	realmAuth "go.mongodb.org/realm/auth"
